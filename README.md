@@ -1,4 +1,4 @@
-<h1 align="center">Hello<img src="https://github.com/ABSphreak/ABSphreak/tree/master/gifs/Hi.gif"></h2>" width="30px" height="60px"> I'm Ruchitha Reddy </h1>
+<h1 align="center">Hello<img src="https://github.com/ABSphreak/ABSphreak/tree/master/gifs/Hi.gif">" width="30px" height="60px"> I'm Ruchitha Reddy </h1>
 
 <!--
 **soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

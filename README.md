@@ -5,7 +5,7 @@
 Here are some ideas to get you started: -->
 
 <div align="center">
-  <img src ="./git.png" />
+  <img src ="./Git.png" />
   
 </div>
 
